@@ -35,7 +35,7 @@ This project runs on Python 3.x and does not require any external dependencies. 
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-username/html-code-extractor.git
+   git clone https://github.com/Anny17f/Code-Extractor.git
    cd html-code-extractor
 
 2. **Set up the environment** (optional):
